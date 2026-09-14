@@ -10,37 +10,38 @@ Trong Tuần 3, chúng ta sẽ xem xét một số loại ứng dụng dưới g
 
 Trong Tuần 4, bạn sẽ tìm hiểu về cộng đồng Internet toàn cầu – những người vận hành, quản lý và điều hành mạng lưới này. Đồng thời, bạn sẽ nhận ra rằng mình là một phần của cộng đồng đó và nắm giữ những vai trò thiết yếu với tư cách là một công dân của không gian mạng.
 
-#Week 1
+#Tuần 1
 
-1. What is the Internet to you?
+1. Internet là gì đối với bạn?
 
-What is the Internet?
-What has the Internet brought to us?
+Internet là gì?
+Internet đã mang lại cho chúng ta những gì?
 
-Starting from computer network research in the early 80s, the Internet is now for everyone and serves as the infrastructure for global society. Human beings now live in the “Internet civilization” that the Internet brought.
+Khởi nguồn từ các nghiên cứu về mạng máy tính vào đầu những năm 80, ngày nay Internet đã trở nên phổ biến với mọi người và đóng vai trò là cơ sở hạ tầng cho xã hội toàn cầu. Con người hiện đang sống trong "nền văn minh Internet" mà mạng lưới này mang lại.
 
-Let’s start learning about the Internet!
+Hãy cùng bắt đầu tìm hiểu về Internet!
 
-As a first step, please write your questions about the Internet in the comment section. What do you want to know about the Internet? Any types of questions are welcome!
+Trước tiên, mời bạn viết những câu hỏi của mình về Internet vào phần bình luận. Bạn muốn biết điều gì về Internet? Chúng tôi hoan nghênh mọi câu hỏi!
 
-2. How is the Internet working?
+2. Internet hoạt động như thế nào?
 
-You may have tons of questions about the Internet now.
+Có lẽ lúc này bạn đang có rất nhiều câu hỏi về Internet.
 
-Building of Miraikan Miraikan
+Tòa nhà Miraikan
 
-Let’s begin our journey from Miraikan in Tokyo, Japan, to explore the Internet using a Hands-On Model of the Internet!!
+Hãy bắt đầu hành trình khám phá Internet từ Miraikan ở Tokyo, Nhật Bản, thông qua Mô hình Trực quan (Hands-On Model) về Internet!!
 
-In the Hands-On Model, the Internet consists of five nodes (A~E) in 4 LANs (Local Area Networks) and five terminal routers (small towers) that each node connects to, and five network routers (tall towers) that connect between LANs.
+Trong mô hình này, Internet bao gồm năm nút (A~E) nằm trong 4 mạng LAN (Mạng cục bộ), năm bộ định tuyến đầu cuối (các tháp nhỏ) mà mỗi nút kết nối tới, và năm bộ định tuyến mạng (các tháp cao) đóng vai trò kết nối giữa các mạng LAN.
 
 https://www.fl-keio.info/fl_img/apie01/handsonmodel.png
 
-Simple diagram for the Hands-On Model
+Sơ đồ đơn giản của Mô hình Trực quan
 
-No one knows the whole picture of the Internet. Each node and tower knows only their neighbors, but the data can arrive at the destination.
+Không ai nắm bắt được toàn bộ bức tranh tổng thể về Internet. Mỗi nút và mỗi tháp chỉ biết về các nút/tháp lân cận của mình, nhưng dữ liệu vẫn có thể đến được đích.
 
-Black and white balls represent data to deliver.
+Các quả bóng màu đen và trắng đại diện cho dữ liệu cần truyền tải.
 
-Let’s look at the video to see Korry send the digital data representing a character “K” from node E to node C.
+Hãy cùng xem video để thấy Korry gửi dữ liệu kỹ thuật số đại diện cho ký tự "K" từ nút E đến nút C.
 
-I hope this model gives you a sense of information, digital data, and how the Internet delivers it. You’ll see the technology to make it happen in the coming steps.
+Tôi hy vọng mô hình này sẽ giúp bạn hình dung rõ hơn về thông tin, dữ liệu kỹ thuật số và cách Internet truyền tải chúng. Bạn sẽ được tìm hiểu về các công nghệ tạo nên quy trình này trong những phần tiếp theo.
+
