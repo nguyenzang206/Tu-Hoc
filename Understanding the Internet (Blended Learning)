@@ -12,7 +12,7 @@ Trong Tuần 4, bạn sẽ tìm hiểu về cộng đồng Internet toàn cầu 
 
 #Week 1
 
-What is the Internet to you?
+1. What is the Internet to you?
 
 What is the Internet?
 What has the Internet brought to us?
@@ -22,3 +22,25 @@ Starting from computer network research in the early 80s, the Internet is now fo
 Let’s start learning about the Internet!
 
 As a first step, please write your questions about the Internet in the comment section. What do you want to know about the Internet? Any types of questions are welcome!
+
+2. How is the Internet working?
+
+You may have tons of questions about the Internet now.
+
+Building of Miraikan Miraikan
+
+Let’s begin our journey from Miraikan in Tokyo, Japan, to explore the Internet using a Hands-On Model of the Internet!!
+
+In the Hands-On Model, the Internet consists of five nodes (A~E) in 4 LANs (Local Area Networks) and five terminal routers (small towers) that each node connects to, and five network routers (tall towers) that connect between LANs.
+
+https://www.fl-keio.info/fl_img/apie01/handsonmodel.png
+
+Simple diagram for the Hands-On Model
+
+No one knows the whole picture of the Internet. Each node and tower knows only their neighbors, but the data can arrive at the destination.
+
+Black and white balls represent data to deliver.
+
+Let’s look at the video to see Korry send the digital data representing a character “K” from node E to node C.
+
+I hope this model gives you a sense of information, digital data, and how the Internet delivers it. You’ll see the technology to make it happen in the coming steps.
