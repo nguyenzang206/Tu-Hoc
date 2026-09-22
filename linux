@@ -1,1 +1,43 @@
-#Day 1
+#Day 1: Hiêu về Linux 
+
+Chào các bạn,
+
+Cái tên Linux chắc bạn nghe nhiều rồi nhỉ, và có thể bạn đã biết Linux là tên một hệ điều hành máy tính được các lập trình viên yêu thích, thế nhưng bạn mới chỉ nghe vậy thôi, chứ tại sao các lập trình viên lại yêu thích hệ điều hành này thì bạn chưa biết, có phải vậy không? Nếu đúng thì … bạn thật giống mình ngày trước. Trước kia, khi nghe các “developer nhà người ta” khuyên rằng “là lập trình viên thì nên biết cách dùng Linux” mình cũng rất tò mò, không hiểu Linux là gì? cái OS này có gì hay ho mà lại được họ ca ngợi như vậy. Mình cũng có bỏ công tìm hiểu, thì chỉ thấy họ nói: Linux nhẹ, Linux linh hoạt, Linux miễn phí,… nhưng từng đó lý do là chưa đủ để mình cảm thấy “thích” hệ điều hành này, phải mãi cho tới khi…
+
+Cho tới khi đi làm, vì công việc mà bắt buộc phải sử dụng tới Linux để phát triển dự án, mình mới hiểu được lý do tại sao các developer tiền bối lại khuyên vậy. Cụ thể lý các do là gì, mình xin được chia sẻ lại qua bài viết ngắn gọn này.
+
+I. LINUX VÀ CÁC BẢN PHÂN PHỐI CỦA LINUX
+
+Hệ điều hành Linux là một hệ điều hành máy tính mã nguồn mở và phần lớn là miễn phí, được xây dựng quanh nhân Linux (Linux kernel). Nhân Linux do Linus Torvalds khởi xướng vào năm 1991, lấy cảm hứng từ hệ điều hành Unix nổi tiếng và mạnh mẽ.
+
+Nhân Linux, hay Linux kernel, chính là trái tim, là thành phần cốt lõi nhất của mọi hệ thống Linux. Kernel chịu trách nhiệm quản lý tài nguyên phần cứng của máy tính, điều phối các tác vụ và cho phép các chương trình phần mềm khác giao tiếp với phần cứng một cách hiệu quả, đảm bảo hệ thống vận hành trơn tru.
+
+Đặc tính quan trọng bậc nhất của Linux là mã nguồn mở (Open Source). Điều này có nghĩa là mã lập trình tạo nên Linux được công khai hoàn toàn. Bất kỳ ai cũng có quyền truy cập, nghiên cứu, sửa đổi và phân phối lại mã nguồn này, thường theo các điều khoản của giấy phép phần mềm tự do như GNU General Public License.
+
+Hầu hết các hệ điều hành Linux, thường được biết đến dưới dạng các bản phân phối (distributions) như Ubuntu hay Fedora, đều được cung cấp miễn phí. Người dùng có thể tải về, cài đặt và sử dụng chúng cho mục đích cá nhân hoặc thương mại, ví dụ như triển khai các website trên các gói Hosting giá rẻ, mà không phải trả chi phí bản quyền phần mềm.
+
+Linux được thiết kế với nhiều đặc điểm tương tự Unix, một hệ điều hành máy chủ mạnh mẽ và ổn định. Do đó, Linux thường được gọi là một hệ điều hành “Unix-like”, thừa hưởng các tính năng ưu việt như khả năng đa nhiệm (multitasking – chạy nhiều chương trình cùng lúc) và đa người dùng (multi-user – nhiều người dùng làm việc trên cùng hệ thống).
+
+Một yếu tố quan trọng đóng góp vào sự hoàn chỉnh của Linux là dự án GNU. Dự án này, do Richard Stallman khởi xướng, cung cấp nhiều công cụ hệ thống, thư viện và ứng dụng thiết yếu hoạt động cùng với nhân Linux, tạo nên một hệ điều hành đầy đủ chức năng mà chúng ta sử dụng ngày nay.
+
+Bạn có thể thấy Linux hoạt động ở khắp mọi nơi. Ví dụ, hệ điều hành Android phổ biến trên điện thoại thông minh và máy tính bảng được xây dựng dựa trên nhân Linux. Ngoài ra, Linux còn là lựa chọn hàng đầu cho máy chủ web, siêu máy tính và vô số thiết bị nhúng.
+
+(*) Những ưu điểm của hệ điều hành Linux
+Hệ điều hành Linux sở hữu nhiều ưu điểm vượt trội, khiến nó trở thành lựa chọn hàng đầu cho nhiều cá nhân và tổ chức trên toàn cầu. Những đặc điểm này không chỉ mang lại lợi ích về chi phí mà còn về hiệu suất, bảo mật và sự linh hoạt trong quản lý hệ thống.
+
+- Mã nguồn mở và hoàn toàn miễn phí: Tiếp cận không rào cản
+Linux là phần mềm mã nguồn mở, nghĩa là mã nguồn của hệ điều hành này được công khai. Điều này cho phép bất kỳ ai cũng có thể xem, nghiên cứu, sửa đổi và phân phối lại. Hầu hết các bản phân phối Linux đều miễn phí, giúp tiết kiệm đáng kể chi phí bản quyền, đặc biệt với doanh nghiệp.
+
+- Khả năng bảo mật vượt trội: Lá chắn an toàn cho dữ liệu
+Linux nổi tiếng với kiến trúc bảo mật vững chắc. Cơ chế quản lý quyền người dùng chi tiết (user permissions), các tính năng như SELinux (Security-Enhanced Linux) và AppArmor giúp ngăn chặn truy cập trái phép và hạn chế thiệt hại nếu có sự cố. Cộng đồng lớn cũng đồng nghĩa với việc các lỗ hổng bảo mật được phát hiện và vá rất nhanh.
+
+- Tính ổn định và hiệu suất cao: Hoạt động bền bỉ
+Linux được biết đến với khả năng hoạt động ổn định trong thời gian dài mà không cần khởi động lại thường xuyên. Hệ điều hành này quản lý tài nguyên hệ thống hiệu quả, bao gồm CPU, bộ nhớ và I/O, mang lại hiệu suất cao, đặc biệt quan trọng đối với các máy chủ và hệ thống yêu cầu độ tin cậy cao.
+
+- Sự linh hoạt và khả năng tùy biến mạnh mẽ: “May đo” theo nhu cầu
+Do tính chất mã nguồn mở, Linux cho phép người dùng tùy chỉnh gần như mọi khía cạnh của hệ điều hành. Bạn có thể chọn từ hàng trăm bản phân phối, tinh chỉnh kernel, lựa chọn môi trường desktop, và cài đặt chỉ những thành phần cần thiết, tối ưu hóa cho từng mục đích sử dụng cụ thể.
+
+- Cộng đồng người dùng và nhà phát triển đông đảo, nhiệt tình
+Linux có một cộng đồng người dùng và nhà phát triển toàn cầu vô cùng lớn mạnh và năng động. Điều này đảm bảo nguồn tài liệu hướng dẫn, diễn đàn hỗ trợ, và các bản cập nhật phần mềm luôn sẵn có. Khi gặp sự cố, bạn dễ dàng tìm thấy sự giúp đỡ từ cộng đồng.
+
+(*) Các thành phần chính cấu tạo nên một hệ điều hành Linux
