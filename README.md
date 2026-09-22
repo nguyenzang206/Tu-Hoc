@@ -46,4 +46,4 @@ GPIO là các chân của ESP32 giao tiếp với bên ngoài, có 2 kiểu cơ 
 +) Input: ESP32 đọc dữ liệu: Button -> GPIO -> ESP32
 +) Output: ESP điều khiển: ESP32 -> GPIO -> LED
 
-
+#Day 3
